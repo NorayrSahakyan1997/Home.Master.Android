@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AvHome</string>
+    <string name="default_error_message">Something went wrong</string>
+    <string name="network_error_message">Networking error></string>
+</resources>
